@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+Umesh Shantesh Hakkapakki
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+- Breaking down complex problems into smaller steps using algorithms and pseudocode.
+- Using decision-making statements and loops to repeat instructions.
+- Working with arrays, strings, and functions to structure logic.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because of its clean syntax and versatility across backend development, data analysis, and artificial intelligence.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+To work as a Software Development Engineer building reliable data-driven and AI-powered applications..
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: Designing the logical steps and problem-solving approach required to solve a task.
 
-Python is:
+Python is: A high-level programming language used to translate that logic into instructions a computer can execute.
 
-In this track, I will learn:
+In this track, I will learn: How to write clean Python syntax, how the interpreter executes code, and how to build full applications using Python.

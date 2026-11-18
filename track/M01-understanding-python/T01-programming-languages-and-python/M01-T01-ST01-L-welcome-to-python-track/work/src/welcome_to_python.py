@@ -1,1 +1,6 @@
-#write you code here
+print("Welcome to the Python Track.")
+print("I already know how to build programming logic.")
+print("Now I am learning how to express that logic using Python.")
+print("My name is Umesh Shantesh Hakkapakki.")
+print("My goal is to become a Software Engineer.")
+print("I selected Python because I want to build scalable software, data science, and AI applications.")
