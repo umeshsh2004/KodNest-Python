@@ -27,3 +27,4 @@ Programming means: Designing the logical steps and problem-solving approach requ
 Python is: A high-level programming language used to translate that logic into instructions a computer can execute.
 
 In this track, I will learn: How to write clean Python syntax, how the interpreter executes code, and how to build full applications using Python.
+nice
